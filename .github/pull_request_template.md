@@ -28,7 +28,7 @@ IMPORTANT: Delete the checklist section that doesn't apply to your changes!
 - [ ] **Unit Tests:** Added/updated `.tests.json` file with comprehensive test coverage
 - [ ] **Manual Dev Testing:** Tested action in dev environment with screenshots below
 - [ ] **Staging Validation:** Confirmed action works correctly in staging environment
-- [ ] **Breaking Changes:** Documented any breaking changes (if applicable)
+- [ ] **Breaking Changes:** Documented any breaking changes (if applicable) - **If you check this box, please notify the Unified Automation team in #proddev-unified-automation**
 
 ### Testing Evidence
 

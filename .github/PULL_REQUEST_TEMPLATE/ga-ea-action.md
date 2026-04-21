@@ -42,7 +42,7 @@
 
 ## Breaking Changes
 - [ ] No breaking changes
-- [ ] Breaking changes documented below
+- [ ] Breaking changes documented below - **If checked, please notify the Unified Automation team in #proddev-unified-automation**
 
 **Breaking Change Details (if applicable):**
 ```
